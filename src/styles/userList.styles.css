@@ -1,0 +1,31 @@
+.user-container{
+    width: 50%;
+    height: 150px;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border-radius: 15px;
+    background-color: white;
+}
+.user-info{
+    font-family: 'Roboto', sans-serif;
+}
+.user-info h3,h4{
+    margin-bottom: 8px;
+    margin-top: 20px;
+}
+.user-info h4{
+    color: #C8C6C6;
+}
+.buttons{
+    margin-top: 60px;
+}
+.buttons button{
+    font-size: 20px;
+    border: none;
+    background-color: white;
+    margin-right: 25px;
+    cursor: pointer;
+}

@@ -1,0 +1,27 @@
+form{
+    width: 100%;
+}
+.info-container{
+    width: 30%;
+    margin: 0 auto;
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+}
+.info-container input{
+    height: 35px;
+    margin-bottom: 15px;
+    padding-left: 10px;
+    border-radius: 15px;
+    border: none;
+    background-color:white;
+}
+.info-container button{
+    width: 60%;
+    height: 30px;
+    margin: 0 auto;
+    border-radius: 15px;
+    border: none;
+    background-color: #89B5AF;
+    color: white;
+}
